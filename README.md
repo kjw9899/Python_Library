@@ -1,4 +1,4 @@
-# **Python_Library**
+# **Python Library Study**
 
 ## Contents
 
@@ -7,4 +7,8 @@
 * [Pandas](https://futureskill.io/content/903ab63c-2b24-4be0-ba1c-a3ba34dce258)
 * [Seaborn](https://futureskill.io/content/87e84e19-8c41-4993-9308-97cc5da79647)
 
+## Reference
+
+[FutureSkill](https://futureskill.io/)
+Documentations
 
